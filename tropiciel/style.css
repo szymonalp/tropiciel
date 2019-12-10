@@ -1,5 +1,7 @@
 body
-{background-color:gray;
+{
+    background-color:gray;
+    font-family: 'Bangers', cursive;
 }
 #container
 {
@@ -7,7 +9,14 @@ body
  margin-left:auto;
  margin-right:auto;   
 }
-#menu
+#logo
+{
+    color:white;
+    margin-top:20px;
+    font-size:44px;
+    letter-spacing:17px;
+}
+#men
 {
 
 }
