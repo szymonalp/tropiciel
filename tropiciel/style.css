@@ -15,9 +15,14 @@ body
     margin-top:20px;
     font-size:44px;
     letter-spacing:17px;
+    font-weight:900;
 }
-#men
+#menu
 {
+background-color: #303030;
+margin-top:20px;
+color: #ffffff;
+padding: 10 px;
 
 }
 #topbar
@@ -31,4 +36,12 @@ body
 #content
 {
 
+}
+.option
+{
+    float:left;
+    min-width:50px;
+    height:25px;
+    font-size:18 px;
+    padding:10px;
 }
