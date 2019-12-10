@@ -1,6 +1,6 @@
 body
 {
-    background-color:gray;
+    background-color:# 404040;
     font-family: 'Bangers', cursive;
 }
 #container
@@ -27,7 +27,15 @@ padding: 10 px;
 }
 #topbar
 {
-
+    
+}
+#topbarL
+{
+    float:left;
+}
+#topbarR
+{
+    float:left;
 }
 #sidebar
 {
@@ -44,4 +52,13 @@ padding: 10 px;
     height:25px;
     font-size:18 px;
     padding:10px;
+    border-right: 2px dotted #444444;
+    opacity: 08;
+    
+}
+.option:hover
+{
+    background: #000000 ;
+    cursor:pointer;
+
 }
