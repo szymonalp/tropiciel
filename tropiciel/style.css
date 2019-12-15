@@ -64,7 +64,7 @@ padding: 10px;
     float:left;
     width:148px;
     min-height:620px;
-    padding: 10px;
+    padding: 20px;
     background-color:lightgray;
     text-align:center;
    
@@ -84,6 +84,10 @@ padding: 10px;
 #footer
 {
     clear:both;
+    color:white;
+    text-align:center;
+    padding:20px;
+    font-size:20px;
 }
 .option
 {
@@ -113,4 +117,17 @@ padding: 10px;
     background-color: #f36742;
     color:white;
     cursor:pointer;
+}
+.bigtitle
+{
+    font-size:32px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.dottedline
+{
+    height:5px;
+    margin-top:15px;
+    margin-bottom:20px;
+    border-bottom: 2px dotted #444444;
 }
